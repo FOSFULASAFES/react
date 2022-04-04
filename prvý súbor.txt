@@ -1,0 +1,6 @@
+// dátové typy v Javascripte
+// 1. Primitívne: String, Number, Boolean ... napr. existuje aj BigInt
+// 2. Kompozítne, alebo objekty a funkcie: pole, objekt, funkcia
+// funkcia "typeof()" slúži na preverenie dátového typu  
+
+//As we know JavaScript is a single-threaded language. That means it can do only one task at a time.
